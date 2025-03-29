@@ -172,7 +172,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-# Project temp files
-INF0085/output
-INF0085/results

@@ -1,0 +1,5 @@
+stages:
+  train:
+    cmd: python T1/data/Untitled-1.py > T2/results.txt
+    outs:
+      - T2/results.txt
